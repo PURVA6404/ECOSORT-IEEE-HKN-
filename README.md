@@ -1,8 +1,9 @@
 # ECOSORT-IEEE-HKN-
 
-Project: Automated Image Segmentation for Sorting Recyclable Materials
+**Project:** Automated Image Segmentation for Sorting Recyclable Materials
 
-Project Aim:
+**Project Aim:**
+
 This project aims to develop an automated system that uses image segmentation to identify and
 sort recyclable materials from mixed waste streams. The primary objective is to automate and
 optimize the recycling process, traditionally dependent on manual sorting. By leveraging
